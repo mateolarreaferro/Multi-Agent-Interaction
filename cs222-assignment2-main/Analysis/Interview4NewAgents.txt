@@ -1,0 +1,55 @@
+### Agent Background and Current Role
+
+1. **What is your character’s name and age?**
+2. **What is their current profession, title, or role, and where are they based?**
+3. **What field or industry do they work in?**
+4. **What is their educational background?** (Degrees, institutions, notable mentors or advisors)
+5. **What specific skills or areas of expertise do they have?**
+
+### Personal and Professional Achievements
+
+6. **What are their major accomplishments or recognitions?** (Awards, publications, projects, etc.)
+7. **Are they known for any specific contributions in their field?** (E.g., innovations, unique approaches)
+8. **What makes them particularly skilled or knowledgeable?** (Special talents, technical abilities, etc.)
+
+### Personality and Psychological Traits
+
+9. **How would you describe their personality?** (E.g., extroverted, introverted, analytical, creative)
+10. **What are their cognitive styles?** (E.g., analytical, intuitive, detail-oriented, big-picture thinker)
+11. **What are their primary motivations or values?** (E.g., social impact, personal success, knowledge)
+12. **What unique strengths or qualities do they bring to social interactions?** (E.g., empathy, charisma, strategic thinking)
+13. **What are their weaknesses or challenges in interpersonal dynamics?** (E.g., stubbornness, impatience, conflict avoidance)
+
+### Interpersonal Style and Social Behavior
+
+14. **How do they usually interact with others?** (Collaborative, competitive, diplomatic, confrontational)
+15. **How do they handle disagreements or conflicts?**
+16. **Do they tend to work best alone or in groups? Why?**
+17. **What type of people do they get along with best, and who might they clash with?**
+18. **How open are they to others’ opinions or perspectives?**
+
+### Motivations and Goals
+
+19. **What is their ultimate goal in life or career?**
+20. **What drives them to pursue leadership or collaboration?** (E.g., sense of duty, personal ambition, desire for change)
+21. **How do they define success?**
+22. **What are they willing to sacrifice or compromise to achieve their goals?**
+
+### Interests, Hobbies, and Life Outside Work
+
+23. **What hobbies or interests do they have outside of their main work?** (E.g., sports, music, travel, reading)
+24. **How do these hobbies shape their worldview or approach to their work?**
+25. **Are there any cultural or personal influences that significantly shape their perspective?**
+
+### Unique Perspectives or Worldview
+
+26. **What is their philosophy or worldview?** (E.g., optimistic, skeptical, idealistic)
+27. **How does their background or life experience influence their approach to life and work?**
+28. **Are they inspired by any specific ideologies, thinkers, or historical figures?**
+
+### Interpersonal Goals in Simulation
+
+29. **What do they hope to achieve by interacting with others in this environment?**
+30. **What impression do they try to make on others?** (E.g., authority, friendliness, intelligence)
+31. **What would make them feel threatened or challenged in a group setting?**
+32. **How would they advocate for themselves if competing for a position of influence?**
